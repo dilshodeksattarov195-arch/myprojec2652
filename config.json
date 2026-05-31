@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerprocess",
+        "uuid": 25008360,
+        "checksum": "ej3cao"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
